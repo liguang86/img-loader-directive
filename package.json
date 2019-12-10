@@ -1,0 +1,37 @@
+{
+  "name": "@liguang/img-loader-directive",
+  "version": "0.1.0",
+  "description": "给DOM加载背景图或IMG加载图片的VUE指令",
+  "private": false,
+  "keyword": "img-loader",
+  "author": "liguang86@qq.com",
+  "license": "MIT",
+  "main": "src/img-loader-directive.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "https://liguang86.github.io/base-grid-table",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "core-js": "^3.4.3",
+    "promise": "^8.0.3",
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.1.0",
+    "@vue/cli-plugin-eslint": "^4.1.0",
+    "@vue/cli-service": "^4.1.0",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
