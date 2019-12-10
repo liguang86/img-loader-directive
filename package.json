@@ -9,9 +9,9 @@
   "main": "src/img-loader-directive.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:liguang86/img-loader-directive.git"
   },
-  "homepage": "https://liguang86.github.io/base-grid-table",
+  "homepage": "https://github.com/liguang86/img-loader-directive",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
